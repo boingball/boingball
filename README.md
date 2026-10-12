@@ -17,7 +17,7 @@
 
 ## ⛳ Featured release: MinTeeGolf
 
-[![MinTeeGolf: 3D Crazy Golf for the Amiga](https://img.itch.zone/aW1nLzMwNTQ2NTgxLnBuZw%3D%3D/original/stoTMn.png)](https://boingball.itch.io/minteegolf)
+**[⛳ MinTeeGolf — Play 3D Crazy Golf for the Amiga →](https://boingball.itch.io/minteegolf)**
 
 **18 holes of colourful, polygonal 3D crazy golf.** Windmills, teleporters, bumpers, tricky obstacles, AI competitors and up to four local players. Includes builds for classic 68000 machines, A1200-era systems and accelerated Amigas.
 
@@ -33,6 +33,18 @@
 | **GeoDash** | Fast-paced, rhythm-inspired arcade game. *In development.* | Coming soon |
 | **The Machine** | Original Amiga game project. *In development.* | Coming soon |
 | **AmiCraft** | Voxel world building and LAN adventures. *Private family project; not publicly released.* | — |
+
+## 🏅 AmiSports — Alpha 1
+
+[![AmiSports Alpha 1 title screen](assets/amisports-alpha1-title.png)](https://boingball.itch.io/amisports)
+
+**Ten sports, character creation and party play on the Amiga.** Alpha 1 is available to try on itch.io.
+
+| Event selection | Stock A1200 presentation |
+| --- | --- |
+| ![AmiSports event selection](assets/amisports-alpha1-events.png) | ![AmiSports stock A1200](assets/amisports-alpha1-stock.png) |
+
+**[▶ Try AmiSports Alpha 1 on itch.io](https://boingball.itch.io/amisports)**
 
 ## 🎵 Mint applications
 
