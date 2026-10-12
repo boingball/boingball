@@ -3,7 +3,7 @@
 # 🕹️ BOINGBALL
 ### Modern software. Classic Amiga hardware.
 
-**Original games • Multimedia applications • Developer libraries**
+**Original games • Multimedia applications • Sample tools • Developer libraries**
 
 [![Amiga](https://img.shields.io/badge/Platform-Commodore%20Amiga-3157b7)](https://github.com/boingball?tab=repositories)
 [![itch.io](https://img.shields.io/badge/Play%20my%20games-itch.io-fa5c5c?logo=itchdotio&logoColor=white)](https://boingball.itch.io)
@@ -46,6 +46,24 @@ Modern-day features for classic Commodore hardware.
 | **MintSCAN** | Network scanner utility for supported eSCL/AirScan devices. | [Source](https://github.com/boingball/MintSCAN) |
 | **MintREMOTE** | Remote desktop access experimentation for classic Amiga. *Alpha.* | [Source](https://github.com/boingball/MintREMOTE) |
 
+## 🎚️ Featured utility: WavConvert4Amiga
+
+[![WavConvert4Amiga sample editor](https://raw.githubusercontent.com/boingball/WavConvert4Amiga/master/wc4a-gui-1.5.jpg)](https://github.com/boingball/WavConvert4Amiga)
+
+**A Windows sample conversion and editing toolkit built with classic Amiga audio in mind — and one I use myself when preparing sounds for my Amiga games.**
+
+Convert WAV and MP3 sources into **8-bit mono** samples; tune for **PAL/NTSC ProTracker notes**; edit waveforms and loop points; export **WAV and IFF-8SVX**; and experiment with audio effects, recording and batch conversion queues.
+
+**[Explore WavConvert4Amiga →](https://github.com/boingball/WavConvert4Amiga)**
+
+## 🌐 Featured port: curl for AmigaOS
+
+**Bringing modern curl back to classic AmigaOS.** My AmigaOS porting work makes this widely used command-line transfer tool available to the Amiga community again — another building block for modern network-capable software on vintage hardware.
+
+I'm also credited as a contributor in curl's upstream repository. See the [upstream contributor mapping](https://github.com/curl/curl/blob/master/.mailmap) and [curl's project site](https://curl.se/).
+
+**[Explore my Amiga curl port →](https://github.com/boingball/curl)**
+
 ## 🛠️ Engines and libraries
 
 > Build it once, prove it in a real game, then reuse it.
@@ -58,7 +76,7 @@ Modern-day features for classic Commodore hardware.
 
 ## 🧪 Other projects
 
-Amiga experiments, ports and classic utilities include **[curl](https://github.com/boingball/curl)**, **[Amiga Minesweeper](https://github.com/boingball/AmIgaMinesweeper)** and **[WavConvert4Amiga](https://github.com/boingball/WavConvert4Amiga)**. I also build IT, networking and PowerShell tools.
+More Amiga experiments and utilities include **[Amiga Minesweeper](https://github.com/boingball/AmIgaMinesweeper)** and **[adate](https://github.com/boingball/adate)**. I also build IT, networking and PowerShell tools.
 
 **[Browse all public repositories →](https://github.com/boingball?tab=repositories)**
 
