@@ -29,7 +29,7 @@
 | --- | --- | --- |
 | **MinTeeGolf** | 3D crazy golf on classic Amiga hardware; 18 holes and local multiplayer. | [itch.io](https://boingball.itch.io/minteegolf) |
 | **AmiKart** | Low-poly kart racer with AI opponents, power-ups and LAN multiplayer; playable prototype. | [GitHub](https://github.com/boingball/AmiKart) |
-| **AmiSports** | Multi-event sports and party game for Amiga. *In development.* | Coming soon |
+| **AmiSports** | Ten-sport Amiga party game with customisable Ami characters. **Alpha 1 is available to play!** | [Get Alpha 1 on itch.io](https://boingball.itch.io/amisports) |
 | **GeoDash** | Fast-paced, rhythm-inspired arcade game. *In development.* | Coming soon |
 | **The Machine** | Original Amiga game project. *In development.* | Coming soon |
 | **AmiCraft** | Voxel world building and LAN adventures. *Private family project; not publicly released.* | — |
